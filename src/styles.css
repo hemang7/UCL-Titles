@@ -1,0 +1,43 @@
+.App {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: black;
+  font-size: larger;
+}
+body {
+  background-size: cover;
+  background-image: url("football.jpg");
+}
+
+.club {
+  cursor: pointer;
+  background-color: rgba(152, 173, 214, 0.6);
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.5rem;
+  font-weight: bold;
+}
+
+.league-container {
+  margin: auto;
+  width: 100%;
+  margin-left: 7%;
+}
+
+.league-list {
+  list-style: none;
+  color: rgb(8, 7, 6) ;
+  padding: 1rem;
+  border: 1px solid rgba(229, 231, 235, 0.7);
+  width: 80%;
+  margin: 1rem 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.pic{
+  align-content: center;
+  width: 50%;
+  margin: auto;
+}
