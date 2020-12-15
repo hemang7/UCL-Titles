@@ -18,7 +18,7 @@ const leagues = {
     { name: "RB Leipzig", CLTrophies: "0", pic:"https://logodownload.org/wp-content/uploads/2019/11/rb-leipzig-logo-0.png" }
   ],
   SerieA: [
-    { name: "Juventus", CLTrophies: "2", pic:"https://o.remove.bg/downloads/7e02c6d4-8b21-4fb9-b825-ad844569e0cc/Juve-sq-removebg-preview.png" },
+    { name: "Juventus", CLTrophies: "2", pic:"https://cdn.freelogovectors.net/wp-content/uploads/2020/07/Juventus_Logo.png" },
     { name: "AC Milan", CLTrophies: "7", pic:"https://1000logos.net/wp-content/uploads/2016/10/Logo-Ac-Milan-640x400.png" },
     { name: "Inter Milan", CLTrophies: "1", pic:"https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo-768x432.png" }
   ]
