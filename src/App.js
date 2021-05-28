@@ -20,7 +20,7 @@ const leagues = {
   SerieA: [
     { name: "Juventus", CLTrophies: "2", pic:"https://cdn.freelogovectors.net/wp-content/uploads/2020/07/Juventus_Logo.png" },
     { name: "AC Milan", CLTrophies: "7", pic:"https://1000logos.net/wp-content/uploads/2016/10/Logo-Ac-Milan-640x400.png" },
-    { name: "Inter Milan", CLTrophies: "1", pic:"https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo-768x432.png" }
+    { name: "Inter Milan", CLTrophies: "1", pic:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png" }
   ]
 };
 export default function App() {
